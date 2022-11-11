@@ -1,5 +1,7 @@
 # Dev Writer's Workshop
 
+![Dev Writer's Retreat](./ogimage.jpeg)
+
 This is a writing workshop that contains all the readings and exercises from [swyx](https://twitter.com/swyx) and [michelle's](https://twitter.com/MichelleBakels) Dev Writer's Retreat in Miami.
 
 It is comprised of 4 modules (based on the 4 days) that each have resources and exercises.
