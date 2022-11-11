@@ -1,6 +1,6 @@
 # Dev Writer's Workshop
 
-![Dev Writer's Retreat](./ogimage.jpeg)
+[![Dev Writer's Retreat](./ogimage.jpeg)](https://twitter.com/swyx/status/1589645043614486528)
 
 This is a writing workshop that contains all the readings and exercises from [swyx](https://twitter.com/swyx) and [michelle's](https://twitter.com/MichelleBakels) Dev Writer's Retreat in Miami.
 
