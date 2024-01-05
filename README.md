@@ -4,7 +4,7 @@
 
 This is a writing workshop that contains all the readings and exercises from [swyx](https://twitter.com/swyx) and [michelle's](https://twitter.com/MichelleBakels) Dev Writer's Retreat in Miami.
 
-It is comprised of 4 modules (based on the 4 days) that each have resources and exercises.
+It is comprised of 4 modules (based on the 4 days) that each have resources and exercises. [Parts of it were recorded and now available on YouTube](https://www.youtube.com/playlist?list=PLH8IAbt5kqZO7WqApvb8Zf20QuSlEg9HC).
 
 # Module 1
 
